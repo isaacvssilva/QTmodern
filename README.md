@@ -4,8 +4,6 @@ Repositório dedicado aos estudos práticos sobre interfaces gráficas com o fra
 
 ## Configurações
 
----
-
 * POP_OS 22.04 LTS
 
 * VSCODE
