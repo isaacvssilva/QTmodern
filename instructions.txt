@@ -1,0 +1,14 @@
+qmake -project
+
+include line in file .pro:
+
+QT += gui widgets
+SOURCES += src/main.cpp
+DESTDIR += bin
+OBJECTS_DIR += obj
+
+qmake
+
+make
+
+./bin/project
